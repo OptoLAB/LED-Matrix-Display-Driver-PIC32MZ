@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/LED_MATRIX_DISPLAY_PIC32MZ.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>1049728</length>                 
+      <used>53520</used>                     
+      <free>996208</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>524288</length>                 
+      <used>19536</used>                     
+      <free>504752</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
